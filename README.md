@@ -41,6 +41,6 @@
 # init.c
 主要定义了flash读函数和串口驱动函数，供给start.S和boot.c调用
 
-# setuo.h
+# setup.h
 主要定义了内核参数结构体
 
